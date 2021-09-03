@@ -1,16 +1,32 @@
-# 使用
-
-![5KMREN4%OBUWA0O_C4YJ)MC](https://user-images.githubusercontent.com/65300014/131882326-ce62a3c9-1b53-4235-b345-78f493038975.png)
-第一次使用该页面时需要前往下载页面下载手机app
-
-![C9CMB4Z 6MYK4}}YT2XKPZ9](https://user-images.githubusercontent.com/65300014/131882609-8f01a916-b73e-4d1c-bd2e-c452a2c7b574.png)
-在遥控器的导航栏第二项集选位置，选择需要播放的视频即可
-
 # 实现
 
+## 项目企划和解决目标
+
+
+
+## 命名规范
+
+CSS BEM命名规范 即：
+
+-   中划线 ：仅作为连字符使用，表示某个块或者某个子元素的多单词之间的连接记号。
+__  双下划线：双下划线用来连接块和块的子元素
+_   单下划线：单下划线用来描述一个块或者块的子元素的一种状态
+
+## 开发流程
 视频播放页面与登录
 
 手机端交互，提供对应下载
+
+# 使用
+
+![5KMREN4%OBUWA0O_C4YJ)MC](https://user-images.githubusercontent.com/65300014/131882326-ce62a3c9-1b53-4235-b345-78f493038975.png)
+
+第一次使用该页面时需要前往下载页面下载手机app
+
+![C9CMB4Z 6MYK4}}YT2XKPZ9](https://user-images.githubusercontent.com/65300014/131882609-8f01a916-b73e-4d1c-bd2e-c452a2c7b574.png)
+
+在遥控器的导航栏第二项集选位置，选择需要播放的视频即可
+
 
 # 设想
 
@@ -30,11 +46,6 @@
 
 性能优化，视频加载
 
-# 命名规范
-
-CSS BEM命名规范
-
-https://github.com/Tencent/tmt-workflow/wiki/%E2%92%9B-%5B%E8%A7%84%E8%8C%83%5D--CSS-BEM-%E4%B9%A6%E5%86%99%E8%A7%84%E8%8C%83
 
 # 总结 
 
